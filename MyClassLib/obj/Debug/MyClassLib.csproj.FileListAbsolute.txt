@@ -1,0 +1,6 @@
+C:\Users\АдылкановМ\source\repos\War of Tanks\MyClassLib\bin\Debug\MyClassLib.dll
+C:\Users\АдылкановМ\source\repos\War of Tanks\MyClassLib\bin\Debug\MyClassLib.pdb
+C:\Users\АдылкановМ\source\repos\War of Tanks\MyClassLib\obj\Debug\MyClassLib.csprojAssemblyReference.cache
+C:\Users\АдылкановМ\source\repos\War of Tanks\MyClassLib\obj\Debug\MyClassLib.csproj.CoreCompileInputs.cache
+C:\Users\АдылкановМ\source\repos\War of Tanks\MyClassLib\obj\Debug\MyClassLib.dll
+C:\Users\АдылкановМ\source\repos\War of Tanks\MyClassLib\obj\Debug\MyClassLib.pdb

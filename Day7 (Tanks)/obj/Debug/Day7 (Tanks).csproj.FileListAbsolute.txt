@@ -1,0 +1,10 @@
+C:\Users\АдылкановМ\source\repos\War of Tanks\Day7 (Tanks)\bin\Debug\Day7 (Tanks).exe.config
+C:\Users\АдылкановМ\source\repos\War of Tanks\Day7 (Tanks)\bin\Debug\Day7 (Tanks).exe
+C:\Users\АдылкановМ\source\repos\War of Tanks\Day7 (Tanks)\bin\Debug\Day7 (Tanks).pdb
+C:\Users\АдылкановМ\source\repos\War of Tanks\Day7 (Tanks)\bin\Debug\MyClassLib.dll
+C:\Users\АдылкановМ\source\repos\War of Tanks\Day7 (Tanks)\bin\Debug\MyClassLib.pdb
+C:\Users\АдылкановМ\source\repos\War of Tanks\Day7 (Tanks)\obj\Debug\Day7 (Tanks).csprojAssemblyReference.cache
+C:\Users\АдылкановМ\source\repos\War of Tanks\Day7 (Tanks)\obj\Debug\Day7 (Tanks).csproj.CoreCompileInputs.cache
+C:\Users\АдылкановМ\source\repos\War of Tanks\Day7 (Tanks)\obj\Debug\Day7 (Tanks).csproj.CopyComplete
+C:\Users\АдылкановМ\source\repos\War of Tanks\Day7 (Tanks)\obj\Debug\Day7 (Tanks).exe
+C:\Users\АдылкановМ\source\repos\War of Tanks\Day7 (Tanks)\obj\Debug\Day7 (Tanks).pdb
